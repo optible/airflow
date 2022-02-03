@@ -16,7 +16,7 @@
     "axios": "^0.21.1",
     "dayjs": "^1.10.4",
     "dotenv": "^8.2.0",
-    "framer-motion": "^3.10.0",
+    "framer-motion": "^6.0.0",
     "humps": "^2.0.1",
     "react": "^16",
     "react-dom": "^16",

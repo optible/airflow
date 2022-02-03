@@ -270,7 +270,7 @@ druid = [
 ]
 elasticsearch = [
     'elasticsearch>7, <7.6.0',
-    'elasticsearch-dbapi==0.1.0',
+    'elasticsearch-dbapi==0.2.7',
     'elasticsearch-dsl>=5.0.0',
 ]
 exasol = [

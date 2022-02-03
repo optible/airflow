@@ -402,7 +402,7 @@ plexus = [
 postgres = [
     'psycopg2-binary>=2.7.4',
 ]
-presto = ['presto-python-client>=0.7.0,<0.8']
+presto = ['presto-python-client>=0.7.0,<0.9']
 qubole = [
     'qds-sdk>=1.10.4',
 ]

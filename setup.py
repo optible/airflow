@@ -497,7 +497,7 @@ devel = [
     'jsondiff',
     'mongomock',
     'moto~=2.0',
-    'mypy==0.770',
+    'mypy==0.931',
     'parameterized',
     'paramiko',
     'pipdeptree',

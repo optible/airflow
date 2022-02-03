@@ -481,7 +481,7 @@ devel = [
     'black',
     'blinker',
     'bowler',
-    'click~=7.1',
+    'click~=8.0.3',
     'coverage',
     'docutils',
     'flake8>=3.6.0',

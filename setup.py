@@ -238,7 +238,7 @@ cloudant = [
     'cloudant>=2.0',
 ]
 dask = [
-    'cloudpickle>=1.4.1, <1.5.0',
+    'cloudpickle>=1.4.1, <3.0.0',
     'dask<2021.3.1;python_version<"3.7"',  # dask stopped supporting python 3.6 in 2021.3.1 version
     'dask>=2.9.0;python_version>="3.7"',
     'distributed>=2.11.1, <2.20',

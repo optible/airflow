@@ -17,6 +17,6 @@
 ---
 dependencies:
   - name: postgresql
-    version: 6.3.12
+    version: 6.5.9
     repository: "https://charts.bitnami.com/bitnami"
     condition: postgresql.enabled

@@ -227,7 +227,7 @@ cassandra = [
     'cassandra-driver>=3.13.0,<4',
 ]
 celery = [
-    'celery~=4.4.2',
+    'celery~=5.2.3',
     'flower>=0.7.3, <1.0',
     'vine~=1.3',  # https://stackoverflow.com/questions/32757259/celery-no-module-named-five
 ]

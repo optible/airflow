@@ -407,7 +407,7 @@ qubole = [
     'qds-sdk>=1.10.4',
 ]
 rabbitmq = [
-    'amqp<5.0.0',
+    'amqp<5.0.10',
 ]
 redis = [
     'redis~=3.2',

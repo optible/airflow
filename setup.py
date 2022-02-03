@@ -496,7 +496,7 @@ devel = [
     'jsonpath-ng',
     'jsondiff',
     'mongomock',
-    'moto~=2.0',
+    'moto~=3.0.2',
     'mypy==0.770',
     'parameterized',
     'paramiko',

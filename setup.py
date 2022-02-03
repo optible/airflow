@@ -410,7 +410,7 @@ rabbitmq = [
     'amqp<5.0.0',
 ]
 redis = [
-    'redis~=3.2',
+    'redis~=4.1.2',
 ]
 salesforce = [
     'simple-salesforce>=1.0.0',

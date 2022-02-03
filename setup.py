@@ -477,7 +477,7 @@ zendesk = [
 
 devel = [
     'aws_xray_sdk',
-    'beautifulsoup4~=4.7.1',
+    'beautifulsoup4~=4.10.0',
     'black',
     'blinker',
     'bowler',

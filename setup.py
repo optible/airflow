@@ -282,7 +282,7 @@ facebook = [
 flask_oauth = [
     'Flask-OAuthlib>=0.9.1,<0.9.6',  # Flask OAuthLib 0.9.6 requires Flask-Login 0.5.0 - breaks FAB
     'oauthlib!=2.0.3,!=2.0.4,!=2.0.5,<3.0.0,>=1.1.2',
-    'requests-oauthlib<1.2.0',
+    'requests-oauthlib<1.4.0',
 ]
 google = [
     'PyOpenSSL',

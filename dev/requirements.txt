@@ -1,4 +1,4 @@
 click~=7.0
 jinja2~=2.10
-keyring==10.1
+keyring==10.6.0
 PyGithub

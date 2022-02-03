@@ -507,7 +507,7 @@ devel = [
     'pytest~=6.0',
     'pytest-cov',
     'pytest-instafail',
-    'pytest-rerunfailures~=9.1',
+    'pytest-rerunfailures~=10.2',
     'pytest-timeouts',
     'pytest-xdist',
     'python-jose',

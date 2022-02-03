@@ -363,7 +363,7 @@ ldap = [
     'python-ldap',
 ]
 mongo = [
-    'dnspython>=1.13.0,<2.0.0',
+    'dnspython>=1.13.0,<2.3.0',
     'pymongo>=3.6.0',
 ]
 mssql = [

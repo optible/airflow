@@ -289,7 +289,7 @@ google = [
     'google-ads>=4.0.0,<8.0.0',
     'google-api-core>=1.25.1,<2.0.0',
     'google-api-python-client>=1.6.0,<2.0.0',
-    'google-auth>=1.0.0,<2.0.0',
+    'google-auth>=1.0.0,<2.7.0',
     'google-auth-httplib2>=0.0.1',
     'google-cloud-automl>=2.1.0,<3.0.0',
     'google-cloud-bigquery-datatransfer>=3.0.0,<4.0.0',
@@ -324,7 +324,7 @@ google = [
     'plyvel',
 ]
 grpc = [
-    'google-auth>=1.0.0, <2.0.0dev',
+    'google-auth>=1.0.0, <2.7.0',
     'google-auth-httplib2>=0.0.1',
     'grpcio>=1.15.0',
 ]

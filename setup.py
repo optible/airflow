@@ -194,7 +194,7 @@ def get_sphinx_theme_version() -> str:
 # If you change this mark you should also change ./scripts/ci/check_order_setup.py
 # Start dependencies group
 amazon = [
-    'boto3>=1.15.0,<1.18.0',
+    'boto3>=1.15.0,<1.21.0',
     'watchtower~=0.7.3',
 ]
 apache_beam = [
